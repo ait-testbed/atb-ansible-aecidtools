@@ -1,0 +1,5 @@
+---
+aecidtools_packages:
+  - tmux
+  - tmuxinator
+  - vim
