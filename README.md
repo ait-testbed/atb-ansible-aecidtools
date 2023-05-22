@@ -1,7 +1,7 @@
 Role Name
 =========
 
-AECID standard role that installs tmux, tmuxinator and vim
+AECID standard ansible-role that installs tmux, tmuxinator and vim
 
 Requirements
 ------------
