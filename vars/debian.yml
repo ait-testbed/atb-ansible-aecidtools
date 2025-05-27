@@ -4,3 +4,4 @@ aecidtools_packages:
   - tmuxinator
   - vim
   - rsync
+  - lnav
